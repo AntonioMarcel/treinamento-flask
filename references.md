@@ -1,0 +1,4 @@
+- HTML Dog (aprender HTML, CSS, Javascript)
+- Excalidraw (prototipar telas)
+- unsplash (imagens para sites)
+- zerotopandas.com (datascience course)
