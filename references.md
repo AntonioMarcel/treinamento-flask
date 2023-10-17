@@ -2,3 +2,4 @@
 - Excalidraw (prototipar telas)
 - unsplash (imagens para sites)
 - zerotopandas.com (datascience course)
+- render.com to deploy website
